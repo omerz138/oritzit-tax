@@ -1,0 +1,27 @@
+.about-figure {
+    display: flex;
+    padding-top: 50px;
+}
+
+.figure-text {
+    padding-right: 50px;
+    padding-left: 50px;
+    font-family: Arimo,sans-serif;
+}
+
+.figure-img {
+    height: 150px;
+}
+
+@media only screen and (max-width: 520px) {
+    .figure-img {
+        height: 120px;
+    }
+
+    .figure-text {
+        font-size: 17px !important;
+        padding-right: 15px;
+        padding-left: 5px;
+    }
+
+}

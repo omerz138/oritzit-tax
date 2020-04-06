@@ -1,0 +1,33 @@
+.main-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+.main-navbar-link {
+    margin-right: 6%;
+}
+
+
+.cover-image {
+    height: 350px;
+    max-width: 820px;
+    width: 100%;
+    object-fit: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.cover {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+@media only screen and  (max-width: 520px){
+    .cover-image {
+        height: 215px;
+    }
+}

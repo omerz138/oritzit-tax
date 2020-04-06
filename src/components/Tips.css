@@ -1,0 +1,13 @@
+.tips-p {
+    font-size: 19px;
+    font-family: Arimo,sans-serif;
+    width: 90%;
+    line-height: 1.4em;
+    padding-right: 20px;
+}
+
+@media only screen and (max-width: 520px) {
+    .tips-p {
+        font-size: 16px;
+    }
+}

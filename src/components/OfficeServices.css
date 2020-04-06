@@ -1,0 +1,30 @@
+.os-list-item {
+    font-size: 17px;
+    font-family: Arimo,sans-serif;
+    width: 90%;
+    padding-right: 10px;
+    margin-right: 10px ;
+}
+
+.video-tip {
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: 15px ;
+}
+
+.second-header {
+    margin-right: 10px;
+    font-size: 24px;
+    font-family: Arimo,sans-serif;
+    font-weight: 800;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 520px) {
+    .os-list-item {
+        font-size: 14px !important;
+    }
+}
