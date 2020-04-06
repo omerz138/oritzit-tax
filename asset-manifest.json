@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/omerz138/oritzit-taxstatic/css/main.0475828d.chunk.css",
+    "main.js": "/omerz138/oritzit-taxstatic/js/main.9bbe98cf.chunk.js",
+    "main.js.map": "/omerz138/oritzit-taxstatic/js/main.9bbe98cf.chunk.js.map",
+    "runtime-main.js": "/omerz138/oritzit-taxstatic/js/runtime-main.9271e8ca.js",
+    "runtime-main.js.map": "/omerz138/oritzit-taxstatic/js/runtime-main.9271e8ca.js.map",
+    "static/css/2.de424728.chunk.css": "/omerz138/oritzit-taxstatic/css/2.de424728.chunk.css",
+    "static/js/2.3e413514.chunk.js": "/omerz138/oritzit-taxstatic/js/2.3e413514.chunk.js",
+    "static/js/2.3e413514.chunk.js.map": "/omerz138/oritzit-taxstatic/js/2.3e413514.chunk.js.map",
+    "index.html": "/omerz138/oritzit-taxindex.html",
+    "precache-manifest.427a8aedf22f6cb7f7f2a4450b115098.js": "/omerz138/oritzit-taxprecache-manifest.427a8aedf22f6cb7f7f2a4450b115098.js",
+    "service-worker.js": "/omerz138/oritzit-taxservice-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/omerz138/oritzit-taxstatic/css/2.de424728.chunk.css.map",
+    "static/css/main.0475828d.chunk.css.map": "/omerz138/oritzit-taxstatic/css/main.0475828d.chunk.css.map",
+    "static/js/2.3e413514.chunk.js.LICENSE.txt": "/omerz138/oritzit-taxstatic/js/2.3e413514.chunk.js.LICENSE.txt",
+    "static/media/cover-logo.jpg": "/omerz138/oritzit-taxstatic/media/cover-logo.9eb83f7c.jpg",
+    "static/media/orit.jpg": "/omerz138/oritzit-taxstatic/media/orit.717173aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9271e8ca.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3e413514.chunk.js",
+    "static/css/main.0475828d.chunk.css",
+    "static/js/main.9bbe98cf.chunk.js"
+  ]
+}
