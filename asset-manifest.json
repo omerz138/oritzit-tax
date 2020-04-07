@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/omerz138/oritzit-tax/static/css/main.0475828d.chunk.css",
-    "main.js": "/omerz138/oritzit-tax/static/js/main.096dba71.chunk.js",
-    "main.js.map": "/omerz138/oritzit-tax/static/js/main.096dba71.chunk.js.map",
-    "runtime-main.js": "/omerz138/oritzit-tax/static/js/runtime-main.f4d74f3e.js",
-    "runtime-main.js.map": "/omerz138/oritzit-tax/static/js/runtime-main.f4d74f3e.js.map",
-    "static/css/2.de424728.chunk.css": "/omerz138/oritzit-tax/static/css/2.de424728.chunk.css",
-    "static/js/2.3e413514.chunk.js": "/omerz138/oritzit-tax/static/js/2.3e413514.chunk.js",
-    "static/js/2.3e413514.chunk.js.map": "/omerz138/oritzit-tax/static/js/2.3e413514.chunk.js.map",
-    "index.html": "/omerz138/oritzit-tax/index.html",
-    "precache-manifest.b66bf884c94ce5cbf7acb888aff1dbc8.js": "/omerz138/oritzit-tax/precache-manifest.b66bf884c94ce5cbf7acb888aff1dbc8.js",
-    "service-worker.js": "/omerz138/oritzit-tax/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/omerz138/oritzit-tax/static/css/2.de424728.chunk.css.map",
-    "static/css/main.0475828d.chunk.css.map": "/omerz138/oritzit-tax/static/css/main.0475828d.chunk.css.map",
-    "static/js/2.3e413514.chunk.js.LICENSE.txt": "/omerz138/oritzit-tax/static/js/2.3e413514.chunk.js.LICENSE.txt",
-    "static/media/cover-logo.jpg": "/omerz138/oritzit-tax/static/media/cover-logo.9eb83f7c.jpg",
-    "static/media/orit.jpg": "/omerz138/oritzit-tax/static/media/orit.717173aa.jpg"
+    "main.css": "/oritzit-tax/static/css/main.0475828d.chunk.css",
+    "main.js": "/oritzit-tax/static/js/main.80f04934.chunk.js",
+    "main.js.map": "/oritzit-tax/static/js/main.80f04934.chunk.js.map",
+    "runtime-main.js": "/oritzit-tax/static/js/runtime-main.305a4e6b.js",
+    "runtime-main.js.map": "/oritzit-tax/static/js/runtime-main.305a4e6b.js.map",
+    "static/css/2.de424728.chunk.css": "/oritzit-tax/static/css/2.de424728.chunk.css",
+    "static/js/2.3e413514.chunk.js": "/oritzit-tax/static/js/2.3e413514.chunk.js",
+    "static/js/2.3e413514.chunk.js.map": "/oritzit-tax/static/js/2.3e413514.chunk.js.map",
+    "index.html": "/oritzit-tax/index.html",
+    "precache-manifest.5c04c99a0d96eccc8cc16097ca8ffa19.js": "/oritzit-tax/precache-manifest.5c04c99a0d96eccc8cc16097ca8ffa19.js",
+    "service-worker.js": "/oritzit-tax/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/oritzit-tax/static/css/2.de424728.chunk.css.map",
+    "static/css/main.0475828d.chunk.css.map": "/oritzit-tax/static/css/main.0475828d.chunk.css.map",
+    "static/js/2.3e413514.chunk.js.LICENSE.txt": "/oritzit-tax/static/js/2.3e413514.chunk.js.LICENSE.txt",
+    "static/media/cover-logo.jpg": "/oritzit-tax/static/media/cover-logo.9eb83f7c.jpg",
+    "static/media/orit.jpg": "/oritzit-tax/static/media/orit.717173aa.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4d74f3e.js",
+    "static/js/runtime-main.305a4e6b.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.3e413514.chunk.js",
     "static/css/main.0475828d.chunk.css",
-    "static/js/main.096dba71.chunk.js"
+    "static/js/main.80f04934.chunk.js"
   ]
 }
