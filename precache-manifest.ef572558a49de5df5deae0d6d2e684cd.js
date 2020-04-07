@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b5ffb611b760b573005b2489edf7e54",
+    "revision": "25bbe617ca02c1cbe7624cbabdbf0626",
     "url": "/oritzit-tax/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oritzit-tax/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "47ca54d39e199843c5c6",
+    "revision": "00613455270f3c9a3e73",
     "url": "/oritzit-tax/static/css/main.f9a54486.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oritzit-tax/static/js/2.3e413514.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47ca54d39e199843c5c6",
-    "url": "/oritzit-tax/static/js/main.f290c759.chunk.js"
+    "revision": "00613455270f3c9a3e73",
+    "url": "/oritzit-tax/static/js/main.81f2b7dc.chunk.js"
   },
   {
     "revision": "a69ee51e61a0461a9fe9",
