@@ -26,7 +26,7 @@ class Header extends Component {
     return (
       <Fragment>
         <div className="cover">
-          <Image className="cover-image" src={cover} />
+          <Image alt="cover-img" className="cover-image" src={cover} />
         </div>
         <Navbar
           onToggle={this.setNavExpanded}

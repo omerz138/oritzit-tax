@@ -10,7 +10,7 @@ const About = () => {
     <Main>
       <PageHeader>אודות</PageHeader>
       <Figure className="about-figure">
-        <Figure.Image className="figure-img" alt="171x180" src={orit} />
+        <Figure.Image className="figure-img" alt="orit-profile-img" src={orit} />
         <Figure.Caption className="figure-text">
           שמי אורית זיצר-יועצת מס.
           <br />
