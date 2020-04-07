@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oritzit-tax/precache-manifest.ef572558a49de5df5deae0d6d2e684cd.js"
+  "/oritzit-tax/precache-manifest.334f87af117b52e2c4b0a91b413f6ac6.js"
 );
 
 self.addEventListener('message', (event) => {

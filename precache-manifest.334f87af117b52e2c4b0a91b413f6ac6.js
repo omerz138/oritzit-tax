@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25bbe617ca02c1cbe7624cbabdbf0626",
+    "revision": "9c07db598b230d18e9f0192b33074b38",
     "url": "/oritzit-tax/index.html"
   },
   {
