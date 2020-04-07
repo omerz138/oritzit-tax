@@ -27,11 +27,12 @@
 .contact-form {
   padding-right: 10px;
   margin-top: 70px;
+  font-size: 18px;
 }
 
 @media only screen and (max-width: 520px) {
   .contact-textarea {
-    width: 100%;
+    width: 95%;
   }
   .contact-form {
     padding-right: 2px;

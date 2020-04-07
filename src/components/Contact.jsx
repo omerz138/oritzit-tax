@@ -19,33 +19,33 @@ const Contact = () => (
 
     <Form className="contact-form">
       <Form.Group as={Row} controlId="name">
-        <Form.Label column sm={2}>
+        <Form.Label column xs={3}>
           שם *
         </Form.Label>
-        <Col sm={5}>
-          <Form.Control type="text" placeholder="name" />
+        <Col xs={5}>
+          <Form.Control type="text" />
         </Col>
       </Form.Group>
 
       <Form.Group as={Row} controlId="email">
-        <Form.Label column sm={2}>
+        <Form.Label column xs={3}>
           אימייל *
         </Form.Label>
-        <Col sm={5}>
-          <Form.Control type="email" placeholder="email" />
+        <Col xs={5}>
+          <Form.Control type="email" />
         </Col>
       </Form.Group>
       <Form.Group as={Row} controlId="title">
-        <Form.Label column sm={2}>
+        <Form.Label column xs={3}>
           נושא
         </Form.Label>
-        <Col sm={5}>
-          <Form.Control type="text" placeholder="title" />
+        <Col xs={5}>
+          <Form.Control type="text" />
         </Col>
       </Form.Group>
 
       <Form.Group as={Row} controlId="msg">
-        <Form.Label column sm={2}>
+        <Form.Label column xs={3}>
           הודעה *
         </Form.Label>
         <Form.Control
